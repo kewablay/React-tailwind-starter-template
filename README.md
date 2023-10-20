@@ -15,4 +15,6 @@ After creating a repo Using this template,
 <div>
    <img src="https://github.com/kewablay/React-tailwind-starter-template/assets/87356028/35d93468-d120-4d7c-a39c-74f323394afd">    
 </div>
-4. Now run npm install.
+3. Now run npm install.
+
+
