@@ -12,9 +12,11 @@ Currently, two official plugins are available:
 After creating a repo Using this template,
 1. Go to your local machine and clone the repo you created.
 2. Go into the package.json file and change the name to your project's name.
+3. Now run npm install.
+
 <div>
    <img src="https://github.com/kewablay/React-tailwind-starter-template/assets/87356028/35d93468-d120-4d7c-a39c-74f323394afd">    
 </div>
-3. Now run npm install.
+
 
 
